@@ -1,7 +1,9 @@
 ﻿# Uncover bike share usage patterns in US Cities
 Apr 27, 2018
 
+<center>
 <img src="./bikeshare-image.jpg" width="60%">
+</center>
 
 ## Introduction
 
